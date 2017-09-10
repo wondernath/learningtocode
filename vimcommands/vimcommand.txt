@@ -1,0 +1,5 @@
+##Commenting multiple lines
+1. :set number
+2. :5,17s/^/#/g     this will comment out line 5-17
+3. :%s/^/#/g        will comment out all lines in file
+###############################
