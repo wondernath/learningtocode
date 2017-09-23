@@ -3,3 +3,16 @@
 2. :5,17s/^/#/g     this will comment out line 5-17
 3. :%s/^/#/g        will comment out all lines in file
 ###############################
+
+#####Selecting a line#######
+1. shift + v
+2. use the j, k to move up and down after selecting
+###########################
+
+#####Indent a line########
+1. shift + > > (This is for right indent)
+2. shift + < < (This is for left indent)
+
+Note: Indent can be performed in combination
+after selecting one or multiple lines
+###############################
